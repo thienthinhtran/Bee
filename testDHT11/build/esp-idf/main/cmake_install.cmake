@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Thinh/Downloads/testDHT11/testDHT11/main
+# Install script for directory: D:/Embedded/Bee/testDHT11/testDHT11/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

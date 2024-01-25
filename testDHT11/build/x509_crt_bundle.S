@@ -1,4 +1,4 @@
-/* * Data converted from C:/Users/Thinh/Downloads/testDHT11/testDHT11/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from D:/Embedded/Bee/testDHT11/testDHT11/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

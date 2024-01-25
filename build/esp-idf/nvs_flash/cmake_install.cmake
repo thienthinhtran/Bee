@@ -1,4 +1,4 @@
-# Install script for directory: D:/Espressif/frameworks/esp-idf-v5.1.2/components/nvs_flash
+# Install script for directory: C:/Espressif/frameworks/esp-idf-v5.1/components/nvs_flash
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

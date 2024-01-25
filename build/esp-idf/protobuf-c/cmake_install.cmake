@@ -1,4 +1,4 @@
-# Install script for directory: D:/Espressif/frameworks/esp-idf-v5.1.2/components/protobuf-c
+# Install script for directory: C:/Espressif/frameworks/esp-idf-v5.1/components/protobuf-c
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

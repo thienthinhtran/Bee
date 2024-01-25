@@ -4,7 +4,7 @@
 cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
-  "D:/Espressif/frameworks/esp-idf-v5.1.2/components/bootloader/subproject"
+  "C:/Espressif/frameworks/esp-idf-v5.1/components/bootloader/subproject"
   "D:/Embedded/Bee/Project 1/build/bootloader"
   "D:/Embedded/Bee/Project 1/build/bootloader-prefix"
   "D:/Embedded/Bee/Project 1/build/bootloader-prefix/tmp"

@@ -1,0 +1,5 @@
+-- IDF_TARGET is not set, guessed 'esp32' from sdkconfig 'D:/Embedded/Bee/Project 1/sdkconfig'
+-- Found Git: D:/Espressif/tools/idf-git/2.43.0/cmd/git.exe (found version "2.43.0.windows.1") 
+-- git describe returned 'fatal: bad object HEAD
+fatal: 'git status --porcelain=2' failed in submodule vendor/c_exception
+fatal: 'git status --porcelain=2' failed in submodule components/cmock/CMock'

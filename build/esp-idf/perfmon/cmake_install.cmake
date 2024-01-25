@@ -1,4 +1,4 @@
-# Install script for directory: D:/Espressif/frameworks/esp-idf-v5.1.2/components/perfmon
+# Install script for directory: C:/Espressif/frameworks/esp-idf-v5.1/components/perfmon
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

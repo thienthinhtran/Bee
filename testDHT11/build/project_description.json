@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "testDHT11",
-    "project_version":    "084e06b-dirty",
+    "project_version":    "5471cb5-dirty",
     "project_path":       "D:/Embedded/Bee/testDHT11/testDHT11",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.1",
     "build_dir":          "D:/Embedded/Bee/testDHT11/testDHT11/build",

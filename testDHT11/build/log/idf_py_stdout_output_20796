@@ -31,7 +31,7 @@ fatal: 'git status --porcelain=2' failed in submodule components/cmock/CMock'
 -- Found Python3: D:/Espressif/python_env/idf5.1_py3.11_env/Scripts/python.exe (found version "3.11.2") found components: Interpreter 
 -- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS
 -- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS - Success
--- App "testDHT11" version: 084e06b-dirty
+-- App "testDHT11" version: 5471cb5-dirty
 -- Adding linker script D:/Embedded/Bee/testDHT11/testDHT11/build/esp-idf/esp_system/ld/memory.ld
 -- Adding linker script C:/Espressif/frameworks/esp-idf-v5.1/components/esp_system/ld/esp32/sections.ld.in
 -- Adding linker script C:/Espressif/frameworks/esp-idf-v5.1/components/esp_rom/esp32/ld/esp32.rom.ld
